@@ -1,2 +1,3 @@
-# javascript-skeleton
-JavaScript starter code
+# HTML Canvas
+
+HTML Canvas starter code.
